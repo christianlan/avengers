@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Spider Woman
+* Doraemon
